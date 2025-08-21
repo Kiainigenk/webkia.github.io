@@ -1,26 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>kiablog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://kiainigenk.github.io/webkia.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://kiainigenk.github.io/webkia.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Perancangan Sistem Kontrol Lampu Lalu Lintas Sederhana Menggunakan D Flip-Flop dan Gerbang AND</title>
-    <link>http://localhost:1313/posts/pertama/first_post/</link>
+    <link>https://kiainigenk.github.io/webkia.github.io/posts/pertama/first_post/</link>
     <pubDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</pubDate>
     <author>Hizkia</author>
-    <guid>http://localhost:1313/posts/pertama/first_post/</guid>
+    <guid>https://kiainigenk.github.io/webkia.github.io/posts/pertama/first_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/projectboardfulldesign.jpg" referrerpolicy="no-referrer">
             </div>IC 7474, IC555 As Timer]]></description>
 </item>
 <item>
     <title>Perbandingan Windows Mod (Ghost Spectre &amp; Xtreme LiteOS) dengan Windows Original</title>
-    <link>http://localhost:1313/posts/kedua/second_post/</link>
+    <link>https://kiainigenk.github.io/webkia.github.io/posts/kedua/second_post/</link>
     <pubDate>Tue, 19 Aug 2025 00:00:00 &#43;0000</pubDate>
     <author>Hizkia</author>
-    <guid>http://localhost:1313/posts/kedua/second_post/</guid>
+    <guid>https://kiainigenk.github.io/webkia.github.io/posts/kedua/second_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/ghostspectrewindows.png" referrerpolicy="no-referrer">
             </div><h2 id="-perbandingan-windows-mod-dengan-windows-original">🖥️ Perbandingan Windows Mod dengan Windows Original</h2>
@@ -32,10 +32,10 @@ Namun Solusi nya Adalah kita mengunakan Windows 11 Mod</p>]]></description>
 </item>
 <item>
     <title>Powerpoint Template Project</title>
-    <link>http://localhost:1313/posts/ketiga/third_post/</link>
+    <link>https://kiainigenk.github.io/webkia.github.io/posts/ketiga/third_post/</link>
     <pubDate>Mon, 18 Aug 2025 00:00:00 &#43;0000</pubDate>
     <author>Hizkia</author>
-    <guid>http://localhost:1313/posts/ketiga/third_post/</guid>
+    <guid>https://kiainigenk.github.io/webkia.github.io/posts/ketiga/third_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/Template%201%282%29.jpg" referrerpolicy="no-referrer">
             </div><p>Biar saya lebih semangat dalam membuat projek&quot; ini mohon beri satu komentar dan reaksi saja dan share website ini kepada teman&quot; mu
