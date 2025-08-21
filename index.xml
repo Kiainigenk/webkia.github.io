@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>kiablog</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Perancangan Sistem Kontrol Lampu Lalu Lintas Sederhana Menggunakan D Flip-Flop dan Gerbang AND</title>
+    <link>http://localhost:1313/posts/pertama/first_post/</link>
+    <pubDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</pubDate>
+    <author>Hizkia</author>
+    <guid>http://localhost:1313/posts/pertama/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/projectboardfulldesign.jpg" referrerpolicy="no-referrer">
+            </div>IC 7474, IC555 As Timer]]></description>
+</item>
+<item>
+    <title>Perbandingan Windows Mod (Ghost Spectre &amp; Xtreme LiteOS) dengan Windows Original</title>
+    <link>http://localhost:1313/posts/kedua/second_post/</link>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 &#43;0000</pubDate>
+    <author>Hizkia</author>
+    <guid>http://localhost:1313/posts/kedua/second_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/ghostspectrewindows.png" referrerpolicy="no-referrer">
+            </div><h2 id="-perbandingan-windows-mod-dengan-windows-original">🖥️ Perbandingan Windows Mod dengan Windows Original</h2>
+<p>Saat ini banyak orang menggunakan <strong>Windows hasil modifikasi</strong> seperti <strong>Ghost Spectre</strong> atau <strong>Xtreme LiteOS</strong>.<br>
+Alasannya sederhana: ingin sistem operasi yang <strong>lebih ringan</strong> dan <strong>lebih cepat</strong> dan juga spesifikasi device mereka yg bisa disebut <strong>potato device</strong>.<br>
+Dan juga Di tahun 2025 ini Microsoft tidak akan memberi update atau support pada Windows 10
+Dan juga Windows 11 sangat berat karena system bloatware itu hanya merupakan salah satu factor mengapa Windows 11 sangat berat dan juga OS ini memerlukan TPM 2.0
+Namun Solusi nya Adalah kita mengunakan Windows 11 Mod</p>]]></description>
+</item>
+<item>
+    <title>Powerpoint Template Project</title>
+    <link>http://localhost:1313/posts/ketiga/third_post/</link>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 &#43;0000</pubDate>
+    <author>Hizkia</author>
+    <guid>http://localhost:1313/posts/ketiga/third_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/Template%201%282%29.jpg" referrerpolicy="no-referrer">
+            </div><p>Biar saya lebih semangat dalam membuat projek&quot; ini mohon beri satu komentar dan reaksi saja dan share website ini kepada teman&quot; mu
+saya memberikan powerpoint template ini gratis
+kuharap ini bisa kamu gunakan dengan baik</p>
+<p>Sebelum kamu memakai template ini pastikan kamu sudah menginstall font dan aplikasi ini</p>
+<ul>
+<li><a href="https://dafonttop.com/arca-majora-3.font" target="_blank" rel="noopener noreffer ">Arca Majora</a></li>
+<li><a href="https://www.dafontfree.io/montserrat-font-family/" target="_blank" rel="noopener noreffer ">Montserrat</a></li>
+<li>Office 2019/ Newest Version</li>
+</ul>
+<h2 id="1-powerpoint-template-project">1. Powerpoint Template Project</h2>
+<p>PowerPoint Template Project adalah sebuah desain dasar (template) untuk presentasi yang dibuat menggunakan Microsoft PowerPoint. Template ini biasanya dipakai berulang kali untuk berbagai macam presentasi projek, laporan, atau proposal, sehingga tidak perlu mendesain ulang dari awal setiap kali membuat presentasi. Template ini saya buat sendiri dan tidak mencuri desain siapapun</p>]]></description>
+</item>
+</channel>
+</rss>
