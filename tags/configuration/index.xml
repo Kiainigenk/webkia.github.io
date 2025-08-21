@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Configuration - Tag - kiablog</title>
-        <link>https://kiainigenk.github.io/webkia.github.io/tags/configuration/</link>
+        <link>https://kiainigenk.github.io/kiablog.github.io/tags/configuration/</link>
         <description>Configuration - Tag - kiablog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://kiainigenk.github.io/webkia.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://kiainigenk.github.io/kiablog.github.io/tags/configuration/" rel="self" type="application/rss+xml" /><item>
     <title>Perancangan Sistem Kontrol Lampu Lalu Lintas Sederhana Menggunakan D Flip-Flop dan Gerbang AND</title>
-    <link>https://kiainigenk.github.io/webkia.github.io/posts/pertama/first_post/</link>
+    <link>https://kiainigenk.github.io/kiablog.github.io/posts/pertama/first_post/</link>
     <pubDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</pubDate>
     <author>Hizkia</author>
-    <guid>https://kiainigenk.github.io/webkia.github.io/posts/pertama/first_post/</guid>
+    <guid>https://kiainigenk.github.io/kiablog.github.io/posts/pertama/first_post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/projectboardfulldesign.jpg" referrerpolicy="no-referrer">
             </div>IC 7474, IC555 As Timer]]></description>

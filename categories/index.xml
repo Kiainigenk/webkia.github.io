@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - kiablog</title>
-        <link>https://kiainigenk.github.io/webkia.github.io/categories/</link>
+        <link>https://kiainigenk.github.io/kiablog.github.io/categories/</link>
         <description>Categories - Category - kiablog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://kiainigenk.github.io/webkia.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://kiainigenk.github.io/kiablog.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Documentation</title>
-    <link>https://kiainigenk.github.io/webkia.github.io/categories/documentation/</link>
+    <link>https://kiainigenk.github.io/kiablog.github.io/categories/documentation/</link>
     <pubDate>Thu, 06 Mar 2025 21:29:01 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://kiainigenk.github.io/webkia.github.io/categories/documentation/</guid>
+    <guid>https://kiainigenk.github.io/kiablog.github.io/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
